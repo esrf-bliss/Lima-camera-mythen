@@ -6,7 +6,7 @@ namespace Mythen
 #include <MythenInterface.h>
 %End
   public:
-    Interface(Mythen::Camera&);
+    Interface(Mythen::Camera& /KeepReference/);
     virtual ~Interface();
 
     virtual void getCapList(std::vector<HwCap> &cap_list /Out/) const;
