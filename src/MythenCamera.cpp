@@ -5,7 +5,7 @@
 
 #include <sys/stat.h> 
 
-#include "Exceptions.h"
+#include "lima/Exceptions.h"
 
 #include "MythenCamera.h"
 

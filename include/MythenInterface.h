@@ -1,10 +1,10 @@
 #ifndef MYTHENINTERFACE_H
 #define MYTHENINTERFACE_H
 
-#include "HwInterface.h"
-#include "HwBufferMgr.h"
-#include "Debug.h"
-#include "HwInterface.h"
+#include "lima/HwInterface.h"
+#include "lima/HwBufferMgr.h"
+#include "lima/Debug.h"
+#include "lima/HwInterface.h"
 #include "MythenCamera.h"
 
 

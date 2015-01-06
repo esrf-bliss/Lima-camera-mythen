@@ -1,11 +1,11 @@
 #ifndef MYTHENCAMERA_H
 #define MYTHENCAMERA_H
 #include "Mythen.h"
-#include "Debug.h"
-#include "Constants.h"
-#include "HwMaxImageSizeCallback.h"
-#include "HwBufferMgr.h"
-#include "ThreadUtils.h"
+#include "lima/Debug.h"
+#include "lima/Constants.h"
+#include "lima/HwMaxImageSizeCallback.h"
+#include "lima/HwBufferMgr.h"
+#include "lima/ThreadUtils.h"
 
 namespace lima
 {
