@@ -1,7 +1,7 @@
 .. _camera-mythen:
 
-Mythen
-------
+Dectris Mythen camera
+---------------------
 
 .. image:: mythen.jpg
 
